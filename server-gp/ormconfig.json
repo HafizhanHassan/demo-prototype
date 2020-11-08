@@ -1,0 +1,6 @@
+{
+    "type": "postgresql",
+    "database": "./db.postgresql",
+    "entities": ["./src/models/*.ts"],
+    "synchronize": true
+  }
